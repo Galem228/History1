@@ -1,11 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/9/90/Kazakh_art_motif.png');
-  background-size: cover;
-  font-family: 'Georgia', serif;
-  color: #fff;
-  text-align: center;
+  background-color: black
 }
 .skeleton {
   height: 400px
